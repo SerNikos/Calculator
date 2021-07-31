@@ -15,6 +15,6 @@ Operates some basic mathematical functions.
 **1**= Operates addition for as may numbers as the user wants,
 **2**= Convert from Fahrenheit to Celsius,
 **3**= show help message,
-**4**= exits the program
+**4**= exits the program.
 
 The **second parameter** [number] is the **Degrees** that the user wants to convert and is **decimal**. 
