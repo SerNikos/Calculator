@@ -1,4 +1,4 @@
-# Calculator
+# Java command line arguments Calculator
 
 This is a java program that operates some basic mathematical functions.
 
