@@ -1,11 +1,20 @@
-# Java command line arguments Calculator
+# Simple java Calculator
 
-This is a java program that operates some basic mathematical functions.
+**NAME**
+Calculator – does some basic mathematic operations
 
-**Options:**
-**1** = Operates **addition** for as may numbers as the user wants,
-**2** = **Convert** from **Fahrenheit to Celsius**,
+**SYNOPSIS**
+Calculator -To use the program
+Calculator number(1) number(2)… number(n) end
+-for the (1) Option “Addition”
+
+**DESCRIPTION**
+Operates some basic mathematical functions.
+
+**Options**:
+**1**= Operates **addition** for as may numbers as the user wants,
+**2**= **Convert** from **Fahrenheit to Celsius**,
 **3**= show **help message**,
-**4** = **exits** the program
+**4**= **exits** the program
 
-The **second parameter** [number] is the **Degrees** that the user wants to **convert** and is **decimal**. 
+The **second parameter** [number] is the **Degrees** that the user wants to convert and is **decimal**. 
